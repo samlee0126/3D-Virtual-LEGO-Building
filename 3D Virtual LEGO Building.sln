@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{302082CA-296E-5FDA-4F45-3B3D8ACDAF0F}") = "3D Virtual LEGO Building", "Assembly-CSharp.csproj", "{44D5BD8F-DFAC-1C07-602F-145053668797}"
+EndProject
+Project("{302082CA-296E-5FDA-4F45-3B3D8ACDAF0F}") = "3D Virtual LEGO Building", "Assembly-CSharp-Editor.csproj", "{23C053F6-23B1-396F-036C-3C4D8DF91468}"
+EndProject
+Project("{302082CA-296E-5FDA-4F45-3B3D8ACDAF0F}") = "3D Virtual LEGO Building", "Assembly-UnityScript.unityproj", "{3B477D75-E282-6CB0-3803-09002600AE9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D5BD8F-DFAC-1C07-602F-145053668797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D5BD8F-DFAC-1C07-602F-145053668797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D5BD8F-DFAC-1C07-602F-145053668797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D5BD8F-DFAC-1C07-602F-145053668797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C053F6-23B1-396F-036C-3C4D8DF91468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C053F6-23B1-396F-036C-3C4D8DF91468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C053F6-23B1-396F-036C-3C4D8DF91468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C053F6-23B1-396F-036C-3C4D8DF91468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B477D75-E282-6CB0-3803-09002600AE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B477D75-E282-6CB0-3803-09002600AE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B477D75-E282-6CB0-3803-09002600AE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B477D75-E282-6CB0-3803-09002600AE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2906 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\corelib.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\corelib.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\verified.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\verified.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.387 seconds
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.UnloadTime: 1.221716 ms
+TEST MODE ON: No Valid Project Id set in TrinusManager. Email project details to info@trinusvr.com to obtain one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/libc
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/libc
+Using locale en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HandPool.ModelsParent needs to reference the parent transform of the hand models.  This transform should be a child of the LMHeadMountedRig transform.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1960 -> priority: 1 
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/libc
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/libc
+Project id not set
+Resolution set at 1280x720, Fake3D: False
+C1
+Disconnecting
+Disconnected INFO:SUCCESS:C1
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.Xml.dll (this message is harmless)
+port set 7417 7417
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Project id not set
+Resolution set at 1280x720, Fake3D: False
+C1
+Disconnecting
+Disconnected INFO:SUCCESS:C1
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 )
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Project id not set
+Resolution set at 1280x720, Fake3D: False
+C1
+Disconnecting
+Disconnected INFO:SUCCESS:C1
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Local IP: 192.168.42.61
+C4(192.168.42.129)
+H1
+Starting handshake
+Received config, target resolution 1280x720
+H3
+Project id not set
+Streaming video True and sensor True
+H3
+H3
+Resolution set at 1280x720, Fake3D: False
+Video processor starting
+Video processor ready
+Requesting sensor connection to 192.168.42.129:5555
+Local IP: 192.168.42.61
+Attempt to connect failed (1): System.Net.Sockets.SocketException: An invalid argument was supplied.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Local IP: 192.168.42.61
+Attempt to connect failed (1): System.ObjectDisposedException: The object was used after being disposed.
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Local IP: 192.168.42.61
+*ERROR* ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping video
+Video stopped
+Stopping connection config
+Connection stopped config
+Stopping connection sensor
+Connection stopped sensor
+Disconnected INFO:SUCCESS:H3
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Resolution set at 1280x720, Fake3D: False
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 )
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: INFO:ERR_CONN:Cancelled detect)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\corelib.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\corelib.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\verified.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\verified.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.118 seconds
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.UnloadTime: 1.758167 ms
+TEST MODE ON: No Valid Project Id set in TrinusManager. Email project details to info@trinusvr.com to obtain one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/libc
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/libc
+Using locale en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HandPool.ModelsParent needs to reference the parent transform of the hand models.  This transform should be a child of the LMHeadMountedRig transform.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 600 -> priority: 1 
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/libc
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/user/Documents/Trinus+Leapmotion_Test/Trinus+LeapMotion_Test_Data/Mono/libc
+Project id not set
+Resolution set at 1280x720, Fake3D: False
+C1
+Disconnecting
+Disconnected INFO:SUCCESS:C1
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\user\Documents\Trinus+Leapmotion_Test\Trinus+LeapMotion_Test_Data\Managed\System.Xml.dll (this message is harmless)
+port set 7417 7417
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Project id not set
+Resolution set at 1280x720, Fake3D: False
+C1
+Disconnecting
+Disconnected INFO:SUCCESS:C1
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_ALREADY_USE:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Net.Sockets.SocketException: The requested address is not valid in its context.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 )
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Project id not set
+Resolution set at 1280x720, Fake3D: False
+C1
+Disconnecting
+Disconnected INFO:SUCCESS:C1
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Local IP: 192.168.42.61
+C4(192.168.42.129)
+H1
+Starting handshake
+Received config, target resolution 1280x720
+H3
+Project id not set
+Streaming video True and sensor True
+H3
+H3
+Resolution set at 1280x720, Fake3D: False
+Video processor starting
+Video processor ready
+Requesting sensor connection to 192.168.42.129:5555
+Local IP: 192.168.42.61
+Attempt to connect failed (1): System.Net.Sockets.SocketException: An invalid argument was supplied.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Local IP: 192.168.42.61
+Attempt to connect failed (1): System.Net.Sockets.SocketException: The requested address is not valid in its context.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Local IP: 192.168.42.61
+*ERROR* ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Net.Sockets.SocketException: The requested address is not valid in its context.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping video
+Video stopped
+Stopping connection config
+Connection stopped config
+Stopping connection sensor
+Connection stopped sensor
+Disconnected INFO:SUCCESS:H3
+Could not connect (target: 192.168.42.129). Reason: System.Net.Sockets.SocketException: The requested address is not valid in its context.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Could not connect (target: 192.168.42.129). Reason: System.Net.Sockets.SocketException: The requested address is not valid in its context.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Resolution set at 1280x720, Fake3D: False
+Attempt to connect failed (2): System.NullReferenceException: Object reference not set to an instance of an object
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: INFO:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+ERR
+*ERROR* INFO:ERR_CONN:ERR
+Disconnecting
+Disconnected INFO:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+ERR
+*ERROR* INFO:ERR_CONN:ERR
+Disconnecting
+Disconnected INFO:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+ERR
+*ERROR* INFO:ERR_CONN:ERR
+Disconnecting
+Disconnected INFO:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+ERR
+*ERROR* INFO:ERR_CONN:ERR
+Disconnecting
+Disconnected INFO:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+port set 7126 7126
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7417
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+Disconnecting
+Disconnected ERROR:ERR_CONN:ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_HANDSHAKE:Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+  at Newtonsoft.Json.Linq.JObject.Load (Newtonsoft.Json.JsonReader reader) [0x00000] in <filename unknown>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json) [0x00000] in <filename unknown>:0 
+  at corelib.Manager.handshake (corelib.network.TCPConnection connection, System.Collections.Generic.Dictionary`2 extraDeviceParams) [0x00000] in <filename unknown>:0 )
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Disconnecting
+Disconnected ERROR:ERR_CONN:ERR
+Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+  at Newtonsoft.Json.Linq.JObject.Load (Newtonsoft.Json.JsonReader reader) [0x00000] in <filename unknown>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json) [0x00000] in <filename unknown>:0 
+  at corelib.Manager.handshake (corelib.network.TCPConnection connection, System.Collections.Generic.Dictionary`2 extraDeviceParams) [0x00000] in <filename unknown>:0 
+Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+  at Newtonsoft.Json.Linq.JObject.Load (Newtonsoft.Json.JsonReader reader) [0x00000] in <filename unknown>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json) [0x00000] in <filename unknown>:0 
+  at corelib.Manager.handshake (corelib.network.TCPConnection connection, System.Collections.Generic.Dictionary`2 extraDeviceParams) [0x00000] in <filename unknown>:0 
+*ERROR* ERROR:ERR_HANDSHAKE:Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+  at Newtonsoft.Json.Linq.JObject.Load (Newtonsoft.Json.JsonReader reader) [0x00000] in <filename unknown>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json) [0x00000] in <filename unknown>:0 
+  at corelib.Manager.handshake (corelib.network.TCPConnection connection, System.Collections.Generic.Dictionary`2 extraDeviceParams) [0x00000] in <filename unknown>:0 
+Disconnecting
+Disconnected ERROR:ERR_HANDSHAKE:Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+  at Newtonsoft.Json.Linq.JObject.Load (Newtonsoft.Json.JsonReader reader) [0x00000] in <filename unknown>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json) [0x00000] in <filename unknown>:0 
+  at corelib.Manager.handshake (corelib.network.TCPConnection connection, System.Collections.Generic.Dictionary`2 extraDeviceParams) [0x00000] in <filename unknown>:0 
+Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+  at Newtonsoft.Json.Linq.JObject.Load (Newtonsoft.Json.JsonReader reader) [0x00000] in <filename unknown>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json) [0x00000] in <filename unknown>:0 
+  at corelib.Manager.handshake (corelib.network.TCPConnection connection, System.Collections.Generic.Dictionary`2 extraDeviceParams) [0x00000] in <filename unknown>:0 
+Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+  at Newtonsoft.Json.Linq.JObject.Load (Newtonsoft.Json.JsonReader reader) [0x00000] in <filename unknown>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json) [0x00000] in <filename unknown>:0 
+  at corelib.Manager.handshake (corelib.network.TCPConnection connection, System.Collections.Generic.Dictionary`2 extraDeviceParams) [0x00000] in <filename unknown>:0 
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Local IP: 192.168.42.61
+Local IP: 192.168.42.61
+Attempt to connect failed (1): System.Net.Sockets.SocketException: An invalid argument was supplied.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 )
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 )
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 )
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 )
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 )
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ERROR:ERR_CONN:ERR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Resolution set at 1280x720, Fake3D: False
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Local IP: 192.168.42.61
+C4(192.168.42.129)
+H1
+Starting handshake
+Received config, target resolution 1280x720
+H3
+Project id not set
+Streaming video True and sensor True
+H3
+H3
+Resolution set at 1280x720, Fake3D: False
+Video processor starting
+Video processor ready
+Requesting sensor connection to 192.168.42.129:5555
+Local IP: 192.168.42.61
+Attempt to connect failed (1): System.Net.Sockets.SocketException: An invalid argument was supplied.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Local IP: 192.168.42.61
+*ERROR* ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping video
+Stopping sendWorker
+Stopped sendWorker
+Video stopped
+Stopping connection config
+Connection stopped config
+Stopping connection sensor
+Connection stopped sensor
+Disconnected INFO:SUCCESS:H3
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Resolution set at 1280x720, Fake3D: False
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Local IP: 192.168.42.61
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+Attempt to connect failed (1): System.NullReferenceException: Object reference not set to an instance of an object
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Resolution set at 1280x720, Fake3D: False
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Local IP: 192.168.42.61
+C4(192.168.42.129)
+H1
+Starting handshake
+Received config, target resolution 1280x720
+H3
+Project id not set
+Streaming video True and sensor True
+H3
+H3
+Resolution set at 1280x720, Fake3D: False
+Video processor starting
+Video processor ready
+Requesting sensor connection to 192.168.42.129:5555
+Local IP: 192.168.42.61
+Attempt to connect failed (1): System.Net.Sockets.SocketException: An invalid argument was supplied.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Local IP: 192.168.42.61
+*ERROR* ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping video
+Stopping sendWorker
+Stopped sendWorker
+Video stopped
+Stopping connection config
+Connection stopped config
+Stopping connection sensor
+Connection stopped sensor
+Disconnected INFO:SUCCESS:H3
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Resolution set at 1280x720, Fake3D: False
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Local IP: 192.168.42.61
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+Attempt to connect failed (1): System.NullReferenceException: Object reference not set to an instance of an object
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Resolution set at 1280x720, Fake3D: False
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Local IP: 192.168.42.61
+C4(192.168.42.129)
+H1
+Starting handshake
+Received config, target resolution 1280x720
+H3
+Project id not set
+Streaming video True and sensor True
+H3
+H3
+Resolution set at 1280x720, Fake3D: False
+Video processor starting
+Video processor ready
+Requesting sensor connection to 192.168.42.129:5555
+Local IP: 192.168.42.61
+Attempt to connect failed (1): System.Net.Sockets.SocketException: An invalid argument was supplied.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Local IP: 192.168.42.61
+*ERROR* ERROR:ERR_CONN:Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping video
+Stopping sendWorker
+Stopped sendWorker
+Video stopped
+Stopping connection config
+Connection stopped config
+Stopping connection sensor
+Connection stopped sensor
+Disconnected INFO:SUCCESS:H3
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Could not connect (target: 192.168.42.129). Reason: System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Resolution set at 1280x720, Fake3D: False
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Local IP: 192.168.42.61
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+Attempt to connect failed (1): System.NullReferenceException: Object reference not set to an instance of an object
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+Attempt to connect failed (2): System.NullReferenceException: Object reference not set to an instance of an object
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.NullReferenceException: Object reference not set to an instance of an object
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+ERR
+*ERROR* INFO:ERR_CONN:ERR
+Disconnecting
+Disconnected INFO:ERR_CONN:ERR
+ERR
+ERR
+ERR
+*ERROR* INFO:ERR_CONN:ERR
+Disconnecting
+Disconnected INFO:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 192.168.42.129
+Requesting config connection to 192.168.42.129:7126
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_IMG_PROC:Unexpected client response, wrong version? (0))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_HANDSHAKE:Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+  at Newtonsoft.Json.Linq.JObject.Load (Newtonsoft.Json.JsonReader reader) [0x00000] in <filename unknown>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json) [0x00000] in <filename unknown>:0 
+  at corelib.Manager.handshake (corelib.network.TCPConnection connection, System.Collections.Generic.Dictionary`2 extraDeviceParams) [0x00000] in <filename unknown>:0 )
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: INFO:SUCCESS:Client stopped requesting data)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LOG START
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 10.89.55.196
+Requesting config connection to 10.89.55.196:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Attempt to connect failed (2): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Resolution set at 1280x720, Fake3D: False
+Resolution set at 1280x720, Fake3D: False
+ERR
+*ERROR* ERROR:ERR_CONN:ERR
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected ERROR:ERR_CONN:ERR
+ERR
+ERR
+C1
+C2
+C3
+Attempting connection to 10.89.55.196
+Requesting config connection to 10.89.55.196:7126
+Attempt to connect failed (1): System.Exception: Connection failed
+  at corelib.network.TCPConnection.requestConnection () [0x00000] in <filename unknown>:0 
+Disconnecting
+Stopping connection config
+Connection stopped config
+Disconnected INFO:SUCCESS:C3
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Disconnected (Reason: ERROR:ERR_CONN:ERR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
